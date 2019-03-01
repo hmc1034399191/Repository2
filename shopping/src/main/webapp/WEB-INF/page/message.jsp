@@ -7,6 +7,6 @@
 
 <body>
 ${message}
-用户注册失败，请重新注册<a href="register.jsp"></a>
+用户注册失败，请重新注册<a href="../../register.jsp"></a>
 </body>
 </html>

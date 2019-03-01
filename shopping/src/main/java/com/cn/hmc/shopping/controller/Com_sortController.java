@@ -17,4 +17,6 @@ public class Com_sortController {
     public List<Com_sort> selectAll(){
         return com_sortServiceimpl.selectAll();
     }
+
+
 }

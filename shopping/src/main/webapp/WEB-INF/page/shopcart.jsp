@@ -11,9 +11,9 @@
 <head>
     <meta charset="UTF-8">
     <title>Document</title>
-    <link rel="stylesheet" type="text/css" href="res/static/css/main.css">
-    <link rel="stylesheet" type="text/css" href="res/layui/css/layui.css">
-    <script type="text/javascript" src="res/layui/layui.js"></script>
+    <link rel="stylesheet" type="text/css" href="../../res/static/css/main.css">
+    <link rel="stylesheet" type="text/css" href="../../res/layui/css/layui.css">
+    <script type="text/javascript" src="../../res/layui/layui.js"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=0">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
 </head>
@@ -39,7 +39,7 @@
         <div class="headerCon">
             <h1 class="mallLogo">
                 <a href="#" title="母婴商城">
-                    <img src="res/static/img/logo.png">
+                    <img src="../../res/static/img/logo.png">
                 </a>
             </h1>
             <div class="mallSearch">
@@ -121,7 +121,7 @@
                     </li>
                     <li class="th th-item">
                         <div class="item-cont">
-                            <a href="javascript:;"><img src="res/static/img/paging_img1.jpg" alt=""></a>
+                            <a href="javascript:;"><img src="../../res/static/img/paging_img1.jpg" alt=""></a>
                             <div class="text">
                                 <div class="title">宝宝T恤棉质小衫</div>
                                 <p><span>粉色</span>  <span>130</span>cm</p>
@@ -155,7 +155,7 @@
                     </li>
                     <li class="th th-item">
                         <div class="item-cont">
-                            <a href="javascript:;"><img src="res/static/img/paging_img2.jpg" alt=""></a>
+                            <a href="javascript:;"><img src="../../res/static/img/paging_img2.jpg" alt=""></a>
                             <div class="text">
                                 <div class="title">宝宝T恤棉质小衫</div>
                                 <p><span>粉色</span>  <span>130</span>cm</p>
@@ -189,7 +189,7 @@
                     </li>
                     <li class="th th-item">
                         <div class="item-cont">
-                            <a href="javascript:;"><img src="res/static/img/paging_img3.jpg" alt=""></a>
+                            <a href="javascript:;"><img src="../../res/static/img/paging_img3.jpg" alt=""></a>
                             <div class="text">
                                 <div class="title">宝宝T恤棉质小衫</div>
                                 <p><span>粉色</span>  <span>130</span>cm</p>
